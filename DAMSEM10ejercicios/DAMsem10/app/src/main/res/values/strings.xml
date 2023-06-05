@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAMsem10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LONG">buttonLong</string>
+    <string name="buttonShort">SHORT</string>
+    <string name="buttonLong">Long</string>
+    <string name="buttonIndefinido">Indefinid</string>
+</resources>
